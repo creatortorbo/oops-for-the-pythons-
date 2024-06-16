@@ -1,0 +1,20 @@
+# here we iterating the string in the given below 
+my_name = 'balukumarpandey'
+my_ilter = iter(my_name)
+
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+print(next(my_ilter))
+# print(next(my_ilter))
